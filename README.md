@@ -1,4 +1,4 @@
-# Basic-Movie-Ranking-Website
+# Basic-Movie-Ranking-Website.
 # Movie Ranking Project (HTML Only)
 A simple movie ranking app made using only HTML.
 
